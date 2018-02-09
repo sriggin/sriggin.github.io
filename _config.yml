@@ -23,6 +23,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://scalactite.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: scalactite
 github_username:  sriggin
+disqus:
+  shortname: seanriggin
 
 # General stuff
 timezone: America/Denver
